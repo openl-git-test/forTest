@@ -1,1 +1,6 @@
-<descriptors/>
+<descriptors>
+  <descriptor>
+    <projectName>StudioIssues.TestGitOpenDeployConfigurationAfterSettingsChangedToLocal</projectName>
+    <projectVersion>db118a3151abf9f75ddf6d523c47935dbce6355b</projectVersion>
+  </descriptor>
+</descriptors>
