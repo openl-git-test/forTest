@@ -1,0 +1,13 @@
+<project>
+  <name>RulesEditor.TestCompareConflictedTextFiles</name>
+  <modules>
+    <module>
+      <name>myModule2</name>
+      <rules-root path="myModule2.xlsx"/>
+    </module>
+    <module>
+      <name>someModule</name>
+      <rules-root path="newFolder/*.*"/>
+    </module>
+  </modules>
+</project>
