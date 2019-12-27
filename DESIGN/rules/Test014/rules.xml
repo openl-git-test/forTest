@@ -1,0 +1,10 @@
+<project>
+  <name>Test014</name>
+  <comment></comment>
+  <modules>
+    <module>
+      <name></name>
+      <rules-root path="mod*.xls"/>
+    </module>
+  </modules>
+</project>
