@@ -1,0 +1,37 @@
+<project>
+  <name>Test020</name>
+  <modules>
+    <module>
+      <name>AMI House And Contents Algorithm</name>
+      <rules-root path="AMI House And Contents Algorithm.xlsx"/>
+    </module>
+    <module>
+      <name>AMI House And Contents Rating Model</name>
+      <rules-root path="AMI House And Contents Rating Model.xlsx"/>
+    </module>
+    <module>
+      <name>CONTENTS-NZ-01012014-01012014</name>
+      <rules-root path="CONTENTS-NZ-01012014-01012014.xlsx"/>
+    </module>
+    <module>
+      <name>HOUSE-NZ-01012014-01012014</name>
+      <rules-root path="HOUSE-NZ-01012014-01012014.xlsx"/>
+    </module>
+    <module>
+      <name>HOUSE-NZ-03032015-02012014</name>
+      <rules-root path="HOUSE-NZ-03032015-02012014.xlsx"/>
+    </module>
+    <module>
+      <name>HOUSE-NZ-12082015-03012014</name>
+      <rules-root path="HOUSE-NZ-12082015-03012014.xlsx"/>
+    </module>
+    <module>
+      <name>My TC_House</name>
+      <rules-root path="My TC_House.xlsx"/>
+    </module>
+    <module>
+      <name>Test cases House (2)</name>
+      <rules-root path="Test cases House (2).xlsx"/>
+    </module>
+  </modules>
+</project>
