@@ -1,0 +1,23 @@
+<project>
+  <name>Test024</name>
+  <comment></comment>
+  <modules>
+    <module>
+      <name>Datatypes</name>
+      <rules-root path="Datatypes.xlsx"/>
+    </module>
+    <module>
+      <name>Main-auto-07242015</name>
+      <rules-root path="Main-auto-07242015.xlsx"/>
+    </module>
+    <module>
+      <name>Main-home-08252015</name>
+      <rules-root path="Main-home-08252015.xlsx"/>
+    </module>
+    <module>
+      <name>Tests</name>
+      <rules-root path="Tests.xlsx"/>
+    </module>
+  </modules>
+  <properties-file-name-pattern>Main-%lob%-%effectiveDate:MMddyyyy%</properties-file-name-pattern>
+</project>
