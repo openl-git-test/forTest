@@ -1,1 +1,6 @@
-<descriptors/>
+<descriptors>
+  <descriptor>
+    <projectName>ProjectForDeploy</projectName>
+    <projectVersion>ca5869112dc1732b8b2b94d3f1bd2c2852d1cf4f</projectVersion>
+  </descriptor>
+</descriptors>
